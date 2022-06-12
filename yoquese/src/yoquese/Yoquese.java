@@ -7,6 +7,8 @@ public class Yoquese {
         
         System.out.println("hola");
         
+        System.out.println("adios");
+        
     }
     
 }
